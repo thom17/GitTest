@@ -5,4 +5,9 @@ public class Test
         System.out.println("asd");
 
     }
+
+    public void Add1()
+    {
+        
+    }
 }
